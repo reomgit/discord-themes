@@ -2,6 +2,7 @@
     "name": "Pure Black 1.6.2",
     "description": "AMOLED black theme",
     "version": "1.1",
+    "theme": "dark",
     "authors": [
         {
             "name": "breadcat0314",
